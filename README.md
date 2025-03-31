@@ -1,5 +1,5 @@
 # 🚀 CSK Mentorship Group  
-<img src="https://pbs.twimg.com/media/GdAURdqWYAAA8in?format=jpg&name=4096x4096" width="600px" alt="CSK Mentorship Banner">
+<img src="https://pbs.twimg.com/media/GdAURdqWYAAA8in?format=jpg&name=4096x4096" width="1200px" height="350" alt="CSK Mentorship Banner">
 
 Welcome to the **CSK Mentorship Group**! 🎯 We are a vibrant community dedicated to fostering growth in **web development, cloud computing, DevOps, and software engineering** through mentorship, collaboration, and hands-on learning.  
 
